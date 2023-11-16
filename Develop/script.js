@@ -46,6 +46,8 @@ function generatePassword() {
   
   passwordText.value = password;
 
+  console.log(password);
+
 }
 
 generateBtn.addEventListener("click", generatePassword);
