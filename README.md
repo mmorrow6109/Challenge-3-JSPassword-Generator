@@ -13,7 +13,7 @@ Matt Morrow
 
 N/A
 
-##Features
+## Features
 
 - 4 string variables for each character set (lowercase, uppercase, numbers, and special characters)
 - Prompt requiring input to define password
@@ -22,3 +22,16 @@ N/A
 - optionsString variable used to consolidate all random choices into the final password output
 - Math.floor(Math.random()) multiplied by the length of the optionsString variable used to pick characters at random from the index
 - addEventListener triggers "function generatePassword ()"
+
+## Link to Application
+
+https://mmorrow6109.github.io/Challenge-3-JSPassword-Generator/
+
+## Screenshots
+
+![Alt text](assets/JSPasswordGen/1.PNG)
+![Alt text](assets/JSPasswordGen/2.PNG)
+![Alt text](assets/JSPasswordGen/3.PNG)
+![Alt text](assets/JSPasswordGen/4.PNG)
+![Alt text](assets/JSPasswordGen/5.PNG)
+![Alt text](assets/JSPasswordGen/6.PNG)
